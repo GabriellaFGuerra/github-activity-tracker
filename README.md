@@ -20,7 +20,7 @@ A command-line tool to track Github user activity.
 
 To install the Github Activity Tracker, run the following command:
 ```bash
-git clone https://github.com/your-username/github-activity-tracker.git
+git clone https://github.com/GabriellaFGuerra/github-activity-tracker.git
 cd github-activity-tracker
 pip install -r requirements.txt
 ```
